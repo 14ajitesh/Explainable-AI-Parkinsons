@@ -61,3 +61,22 @@ Final results will be reported after the models are rerun using a consistent pre
 ## Disclaimer
 
 This project is for academic and research purposes only. It is not intended for clinical diagnosis or medical decision-making.
+
+## Project Structure
+
+- `uci_parkinson.ipynb` — Main notebook for model training and experiments.
+- `Untitled8.ipynb` — Additional analysis and visualizations.
+- `parkinsons_updrs.data` — Parkinson's telemonitoring dataset.
+- `parkinsons_updrs.names` — Dataset description.
+- `requirements.txt` — Python dependencies.
+- `src/` — Directory for reusable source code.
+
+## Technologies Used
+
+- Python
+- Pandas and NumPy
+- Scikit-learn
+- TensorFlow
+- Matplotlib and Seaborn
+- SHAP
+- Jupyter Notebook
