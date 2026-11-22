@@ -80,3 +80,15 @@ This project is for academic and research purposes only. It is not intended for 
 - Matplotlib and Seaborn
 - SHAP
 - Jupyter Notebook
+
+## How to Run
+
+1. Open the main notebook `uci_parkinson.ipynb`.
+2. Upload the notebook to Google Colab or open it using Jupyter Notebook.
+3. Install the required dependencies listed in `requirements.txt`.
+4. Make sure the Parkinson's dataset files are available in the notebook's working directory.
+5. Run the notebook cells in order to execute the experiments.
+
+## Reproducibility
+
+Model results may vary depending on preprocessing, train-test split, random seed, and training configuration. Refer to the notebook for the experiment implementation and reported results.
